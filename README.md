@@ -3,6 +3,20 @@
 Este repositorio es una guía centralizada y un contenedor de recursos para la configuración, optimización y control de impresoras 3D. Aquí encontrarás archivos específicos para **Marlin**, **Klipper** y **OctoPrint**, junto con la documentación necesaria para implementarlos.
 
 ---
+## Link Oficial del Diagrama de La BTT Octopus v1.1: https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0
+
+## ⚠️ Nota de Compatibilidad: BTT Octopus v1.1
+
+Aunque este repositorio está titulado oficialmente para la **BTT Octopus v1.0**, se ha confirmado que las instrucciones y configuraciones aquí presentes son **totalmente compatibles** con la revisión de hardware **BTT Octopus v1.1**.
+
+### Detalles de la compatibilidad:
+* **Pinout:** El mapeo de pines es idéntico entre la v1.0 y la v1.1.
+* **Firmware:** Los archivos de configuración (Marlin/Klipper) y los binarios compilados funcionan sin cambios en ambas versiones.
+* **Conexiones:** La disposición de los conectores de motores, ventiladores y termistores no ha cambiado.
+
+> **Recomendación:** Siempre verifica la posición de los jumpers de voltaje (especialmente en ventiladores y drivers) antes de encender la placa por primera vez, ya que estos son ajustes físicos independientes de la versión del firmware.
+
+---
 
 ## 📥 Cómo descargar este proyecto
 

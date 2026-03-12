@@ -3,11 +3,6 @@
 Este repositorio es una guía centralizada y un contenedor de recursos para la configuración, optimización y control de impresoras 3D. Aquí encontrarás archivos específicos para **Marlin**, **Klipper** y **OctoPrint**, junto con la documentación necesaria para implementarlos.
 
 ---
-# 3D-Printer-Project
-
-Este repositorio es una guía centralizada y un contenedor de recursos para la configuración, optimización y control de impresoras 3D. Aquí encontrarás archivos específicos para **Marlin**, **Klipper** y **OctoPrint**, junto con la documentación necesaria para implementarlos.
-
----
 
 ## 📥 Cómo descargar este proyecto
 

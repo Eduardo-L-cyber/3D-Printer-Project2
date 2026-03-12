@@ -3,6 +3,29 @@
 Este repositorio es una guía centralizada y un contenedor de recursos para la configuración, optimización y control de impresoras 3D. Aquí encontrarás archivos específicos para **Marlin**, **Klipper** y **OctoPrint**, junto con la documentación necesaria para implementarlos.
 
 ---
+# 3D-Printer-Project
+
+Este repositorio es una guía centralizada y un contenedor de recursos para la configuración, optimización y control de impresoras 3D. Aquí encontrarás archivos específicos para **Marlin**, **Klipper** y **OctoPrint**, junto con la documentación necesaria para implementarlos.
+
+---
+
+## 📥 Cómo descargar este proyecto
+
+Si eres nuevo en GitHub, aquí tienes dos formas de obtener estos archivos:
+
+### Opción A: Descargar todo el proyecto (Recomendado)
+Para bajar todas las carpetas, configuraciones y manuales de una sola vez:
+1. Haz clic en el botón verde que dice **"<> Code"** (está en la parte superior derecha).
+2. En el menú desplegable, selecciona **"Download ZIP"**.
+3. Descomprime el archivo en tu computadora y ¡listo!
+
+### Opción B: Descargar un archivo específico (como el .rar de Marlin)
+Si solo necesitas un archivo puntual:
+1. Haz clic sobre el nombre del archivo (ejemplo: `Marlin-2.1.2.7_BTT Octopus v1.1.rar`).
+2. En la siguiente pantalla, busca el botón **"Download"** (o el icono de la flecha hacia abajo) en la parte derecha.
+3. El archivo se guardará directamente en tu carpeta de descargas.
+
+---
 
 ## 💡 Conceptos Básicos
 
